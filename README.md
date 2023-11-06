@@ -48,5 +48,9 @@
 <img align="right" height="150" src="https://media.giphy.com/media/QMHoU66sBXqqLqYvGO/giphy.gif"  />
 
 ###
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=julienv60&show_icons=true&locale=en&layout=compact" alt="julienv60" /></p>
 
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=julienv60&show_icons=true&locale=en" alt="julienv60" /></p>
+
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=julienv60&" alt="julienv60" /></p>
 ###
